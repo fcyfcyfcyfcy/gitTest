@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# 亦书亦音
+    
+### 项目成员
 
-You can use the [editor on GitHub](https://github.com/fcyfcyfcyfcy/gitTest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ *  罗淳   2016210405043  <a style="color: red"> **(组长）**</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ *  付朝燕 2016210405037
 
-### Markdown
+### 项目描述
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 实现一个书籍、音乐的共享平台，同时也是一个口碑库：<br>
+1.提供书籍、音乐的查询功能，通过搜索名称或者直接点击分类即可进行查找，同时在主界面上本网站也会向用户推荐一些书籍和音乐。<br>
+2.用户可以对书籍、音乐打分，网站会根据这些打分进行统计并综合排序，即用户不仅可以通过类型分类查找，也可以通过好评度寻找到有趣的书籍、音乐。<br>
+3.提供论坛功能，用户可以在论坛里自由发布自己的想法，分享自己喜欢的书籍和音乐。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 界面设计
 
-- Bulleted
-- List
+### 数据结构
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fcyfcyfcyfcy/gitTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 功能模块
+ 1.
+ ....
+ 2.
+ ....
